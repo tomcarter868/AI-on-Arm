@@ -1,4 +1,4 @@
-# **Generative AI on ARM**
+# **AI on Arm**
 
 Welcome to **Generative AI on ARM**, a hands-on course designed to help you optimize generative AI workloads on ARM architectures. Through practical labs and structured lectures, you will learn how to deploy AI models efficiently across different ARM-based environments.
 
