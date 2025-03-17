@@ -1,5 +1,7 @@
 # **AI on Arm**
 
+![learn_on_arm](./img/Learn%20on%20Arm_banner.png)
+
 Welcome to **Generative AI on ARM**, a hands-on course designed to help you optimize generative AI workloads on ARM architectures. Through practical labs and structured lectures, you will learn how to deploy AI models efficiently across different ARM-based environments.
 
 ## Course Structure
@@ -111,4 +113,4 @@ By the end of this course, you will have a strong foundation in deploying high-p
 
 **Happy learning!**
 
-
+**Note:** The primary content writer for this course is an AI researcher, [Oliver Grainge](https://github.com/OliverGrainge).
