@@ -1,0 +1,9 @@
+Model,Size (GiB),Params (B),Threads,Test,Speed (t/s),Error (t/s)
+openelm 3B Q4_0,1.62,3.04,1,pp12,11.2,0.2
+openelm 3B Q4_0,1.62,3.04,1,tg6,5.41,0.21
+openelm 3B Q4_0,1.62,3.04,2,pp12,19.65,2.12
+openelm 3B Q4_0,1.62,3.04,2,tg6,5.57,0.27
+openelm 3B Q4_0,1.62,3.04,3,pp12,21.43,1.14
+openelm 3B Q4_0,1.62,3.04,3,tg6,4.91,0.24
+openelm 3B Q4_0,1.62,3.04,4,pp12,22.37,1.38
+openelm 3B Q4_0,1.62,3.04,4,tg6,5.12,0.51

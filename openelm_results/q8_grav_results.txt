@@ -1,0 +1,12 @@
+| model                          |       size |     params | backend    | threads |          test |                  t/s |
+| ------------------------------ | ---------: | ---------: | ---------- | ------: | ------------: | -------------------: |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       1 |          pp12 |         10.15 ± 0.03 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       1 |           tg6 |          5.29 ± 0.03 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       2 |          pp12 |         19.05 ± 0.01 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       2 |           tg6 |          8.89 ± 0.01 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       3 |          pp12 |         27.91 ± 0.02 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       3 |           tg6 |         12.72 ± 0.02 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       4 |          pp12 |         36.56 ± 0.01 |
+| openelm 3B Q8_0                |   3.01 GiB |     3.04 B | CPU        |       4 |           tg6 |         16.63 ± 0.02 |
+
+build: f11cfdfd (4489)
