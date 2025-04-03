@@ -72,13 +72,12 @@ By the end of this course, you will have a strong foundation in deploying high-p
 3. **Clone the repository**  
    Once connected to the instance, clone the repository:
    ```bash
-   git clone https://github.com/OliverGrainge/Generative_AI_on_arm.git
+   git clone git@github.com:arm-university/AI-on-Arm.git
    ```
 
 4. **Run the setup script**  
    Change to the repository directory and run the setup script:
    ```bash
-   cd Generative_AI_on_arm
    ./setup_graviton.sh
    ```
 
