@@ -27,6 +27,12 @@ You will learn how to optimize AI inference using Arm-specific techniques such a
 
 By the end of this course, you will have a strong foundation in deploying high-performance AI models on Arm hardware.
 
+## Requirements
+
+This course assumes a foundational understanding of machine learning, including completion of a basic introductory course, such as one at the undergraduate level.
+
+Additionally to run the laboratory exercises, we assume you have access to a Raspberry Pi 5 and an Arm-based cloud instance. We have validated this on an AWS Graviton instance but it is expected to work through other cloud service providers. 
+
 
 ---
 
@@ -37,8 +43,10 @@ By the end of this course, you will have a strong foundation in deploying high-p
 1. **Run the setup script**  
    Open a terminal in the project directory and execute the setup script:  
    ```bash
-   ./setup.sh
+   ./setup_pi5.sh
    ```
+   Please Note: This can take around 30 minutes to complete this step. 
+
 2. **Login to a Hugging Face account**
    ```bash
    huggingface-cli login
