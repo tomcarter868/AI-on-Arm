@@ -14,7 +14,7 @@ This course consists of three hands-on labs and four lectures.
 
 ### Hands-On Labs
 - **Lab 1**: Optimizing generative AI on mobile devices, such as the Raspberry Pi 5.
-- **Lab 2**: Deploying AI workloads on Arm-based cloud servers, including AWS Graviton.
+- **Lab 2**: Deploying AI workloads on Arm-based Cloud servers, including AWS Graviton.
 - **Lab 3**: Comparing Cloud vs. Edge inference, analyzing challenges and trade-offs.
 
 ### Lecture Series
@@ -112,8 +112,8 @@ Additionally to run the laboratory exercises, we assume you have access to a Ras
 
 ### **Lab 3: Comparative Inference Benchmarking on Arm Server and Edge Devices**
 
-1. Follow the setup stpes for `lab1` on your local Raspberry Pi.
-2. Follow the setup stpes for `lab2` on your Raspberry Pi, to create and connect to a cloud instance.
+1. Follow the setup steps for `lab1` on your local Raspberry Pi.
+2. Follow the setup steps for `lab2` on your Raspberry Pi, to create and connect to a cloud instance.
 3. Open `lab3.ipynb` to find the instructions for completing the lab 
 
 ---
